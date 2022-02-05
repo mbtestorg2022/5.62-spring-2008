@@ -59,26 +59,343 @@ H = Hill
 Mac = Maczek  
 Met = Metiu
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Review of thermodynamics | H: 1-6 |
-| 2 | E, A, and S: macroscopic properties for microscopic probabilities {Pi} | H: 6-20 |
-| 3 | Canonical partition function: replace {Pi} by Q | H: 12-13 and 18-20 |
-| 4 | Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω | H: 26-30 and 33-38 |
-| 5 | Molecular partition function: replace E (assembly) by ε (molecule) |  {{< br >}}{{< br >}} H: 59-70 {{< br >}}{{< br >}} Mac: 16-19 {{< br >}}{{< br >}} Met: 49-55 {{< br >}}{{< br >}}  |
-| 6 | Q corrected for molecular indistinguishability | H: 68-70 |
-| 7 | Translational part of Boltzmann partition function | H: 74-77 |
-| 8 | Boltzmann, Fermi-Dirac, and Bose-Einstein statistics | H: 59-72 |
-| 9 | Calculation of macroscopic properties from microscopic energy levels: qtrans | H: 74-81 |
-| 10 |  {{< br >}}{{< br >}} Quantum vs. classical qtrans {{< br >}}{{< br >}} Equipartition {{< br >}}{{< br >}} Internal degrees of freedom {{< br >}}{{< br >}}  | H: 82-85 and 112-115 |
-| 11 | Internal degrees of freedom for atoms and diatomic molecules |  {{< br >}}{{< br >}} H: 147-158 {{< br >}}{{< br >}} Mac: 42-53 {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Rotational partition function {{< br >}}{{< br >}} Equipartition {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} H: 153-159 {{< br >}}{{< br >}} Mac: 47-53 {{< br >}}{{< br >}} Met: 131-142 {{< br >}}{{< br >}}  |
-| 13 | Nuclear spin statistics: symmetry number, σ Low temperature limit for rotational partition function |  {{< br >}}{{< br >}} H: 153-159 and 466-472 {{< br >}}{{< br >}} Mac: 54-57 {{< br >}}{{< br >}}  |
-| 14 | Low and high-T limits for qrot and qvib |  {{< br >}}{{< br >}} H: 153-159 {{< br >}}{{< br >}} Mac: 51-53 {{< br >}}{{< br >}}  |
-| 15 | Polyatomic molecules: rotation and vibration |  {{< br >}}{{< br >}} H: 151-153 {{< br >}}{{< br >}} Mac: 53 and 58-63 {{< br >}}{{< br >}}  |
-| 16 | Chemical equilibrium I |  {{< br >}}{{< br >}} H: 177-182 {{< br >}}{{< br >}} Mac: 77-83 {{< br >}}{{< br >}} Met: 179-191 {{< br >}}{{< br >}}  |
-| 17 | Chemical equilibrium II |  {{< br >}}{{< br >}} H: 182-187 {{< br >}}{{< br >}} Mac: 83-92 {{< br >}}{{< br >}} Met: 191-196 {{< br >}}{{< br >}}  |
-| 18 | Model intermolecular potentials | H: 261-274 |
-| 21 | Thermodynamics of solid: Einstein and Debye models | H: 86-98 |
-| 22 | Einstein and Debye solids | H: 98-105 and 490-495 |
-| 24 | Free electron theory of a metal | H: 441-444
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+H: 1-6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+E, A, and S: macroscopic properties for microscopic probabilities {Pi}
+{{< tdclose >}}
+{{< tdopen >}}
+H: 6-20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Canonical partition function: replace {Pi} by Q
+{{< tdclose >}}
+{{< tdopen >}}
+H: 12-13 and 18-20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω
+{{< tdclose >}}
+{{< tdopen >}}
+H: 26-30 and 33-38
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular partition function: replace E (assembly) by ε (molecule)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 59-70
+
+Mac: 16-19
+
+Met: 49-55
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Q corrected for molecular indistinguishability
+{{< tdclose >}}
+{{< tdopen >}}
+H: 68-70
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Translational part of Boltzmann partition function
+{{< tdclose >}}
+{{< tdopen >}}
+H: 74-77
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann, Fermi-Dirac, and Bose-Einstein statistics
+{{< tdclose >}}
+{{< tdopen >}}
+H: 59-72
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Calculation of macroscopic properties from microscopic energy levels: qtrans
+{{< tdclose >}}
+{{< tdopen >}}
+H: 74-81
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum vs. classical qtrans
+
+Equipartition
+
+Internal degrees of freedom
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+H: 82-85 and 112-115
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Internal degrees of freedom for atoms and diatomic molecules
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 147-158
+
+Mac: 42-53
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rotational partition function
+
+Equipartition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 153-159
+
+Mac: 47-53
+
+Met: 131-142
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear spin statistics: symmetry number, σ Low temperature limit for rotational partition function
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 153-159 and 466-472
+
+Mac: 54-57
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Low and high-T limits for qrot and qvib
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 153-159
+
+Mac: 51-53
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic molecules: rotation and vibration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 151-153
+
+Mac: 53 and 58-63
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium I
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 177-182
+
+Mac: 77-83
+
+Met: 179-191
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+H: 182-187
+
+Mac: 83-92
+
+Met: 191-196
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Model intermolecular potentials
+{{< tdclose >}}
+{{< tdopen >}}
+H: 261-274
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamics of solid: Einstein and Debye models
+{{< tdclose >}}
+{{< tdopen >}}
+H: 86-98
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Einstein and Debye solids
+{{< tdclose >}}
+{{< tdopen >}}
+H: 98-105 and 490-495
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Free electron theory of a metal
+{{< tdclose >}}
+{{< tdopen >}}
+H: 441-444
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

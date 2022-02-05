@@ -4,45 +4,525 @@ title: Calendar
 uid: d1851296-e897-073c-1e9f-6f649e59651a
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Review of thermodynamics |   {{< br >}} |
-| 2 | E, A, and S: macroscopic properties for microscopic probabilities {Pi} |   {{< br >}} |
-| 3 | Canonical partition function: replace {Pi} by Q |   {{< br >}} |
-| 4 | Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω |   {{< br >}} |
-| 5 | Molecular partition function: replace E (assembly) by ε (molecule) | Problem set 1 due |
-| 6 | Q corrected for molecular indistinguishability |   {{< br >}} |
-| 7 | Translational part of Boltzmann partition function |   {{< br >}} |
-| 8 | Boltzmann, Fermi-Dirac, and Bose-Einstein statistics | Problem set 2 due |
-| 9 | Calculation of macroscopic properties from microscopic energy levels: qtrans |   {{< br >}} |
-| 10 |  {{< br >}}{{< br >}} Quantum vs. classical qtrans {{< br >}}{{< br >}} Equipartition {{< br >}}{{< br >}} Internal degrees of freedom {{< br >}}{{< br >}}  |   {{< br >}} |
-| 11 | Internal degrees of freedom for atoms and diatomic molecules | Problem set 3 due |
-| 12 |  {{< br >}}{{< br >}} Rotational partition function {{< br >}}{{< br >}} Equipartition {{< br >}}{{< br >}}  |   {{< br >}} |
-| {{< td-colspan 3 >}}**First hour exam**{{< /td-colspan >}} |||
-| 13 | Nuclear spin statistics: symmetry number, σ Low temperature limit for rotational partition function |   {{< br >}} |
-| 14 | Low and high-T limits for qrot and qvib |   {{< br >}} |
-| 15 | Polyatomic molecules: rotation and vibration |   {{< br >}} |
-| 16 | Chemical equilibrium I |   {{< br >}} |
-| 17 | Chemical equilibrium II | Problem set 4 due |
-| 18 | Model intermolecular potentials |   {{< br >}} |
-| 19 | Configurational integral: cluster expansion |   {{< br >}} |
-| 20 | Virial equation of state | Problem set 5 due |
-| 21 | Thermodynamics of solid: Einstein and Debye models |   {{< br >}} |
-| {{< td-colspan 3 >}}**Second hour exam**{{< /td-colspan >}} |||
-| 22 | Einstein and Debye solids |   {{< br >}} |
-| 23 | Phonons: 1-D linear chain of atoms |   {{< br >}} |
-| 24 | Free electron theory of a metal |   {{< br >}} |
-| 25 | Heat capacity in metals |   {{< br >}} |
-| 26 | Band theory of solids | Problem set 6 due |
-| 27 | Crystal phase equilibria |   {{< br >}} |
-| 28 | Kinetic theory of gases: Maxwell-Boltzmann distribution |   {{< br >}} |
-| 29 | Kinetic theory of gases: effusion and collisions |   {{< br >}} |
-| 30 | Kinetic theory of gases: collision dynamics and scattering | Problem set 7 due |
-| 31 | Kinetic theory of gases: mean free path and transport |   {{< br >}} |
-| {{< td-colspan 3 >}}**Third hour exam**{{< /td-colspan >}} |||
-| 32 | Kinetic theory of gases: transport coefficients |   {{< br >}} |
-| 33 | Transition state theory I | Problem set 8 due |
-| 34 |  {{< br >}}{{< br >}} Transition state theory II {{< br >}}{{< br >}} Kinetic isotope effect {{< br >}}{{< br >}}  |   {{< br >}} |
-| 35 | Statistical mechanics for photons |   {{< br >}} |
-| 36 | Rates of unimolecular reactions: RRKM |   {{< br >}} |
-| {{< td-colspan 3 >}}**Final exam**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+E, A, and S: macroscopic properties for microscopic probabilities {Pi}
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Canonical partition function: replace {Pi} by Q
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular partition function: replace E (assembly) by ε (molecule)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Q corrected for molecular indistinguishability
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Translational part of Boltzmann partition function
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann, Fermi-Dirac, and Bose-Einstein statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Calculation of macroscopic properties from microscopic energy levels: qtrans
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum vs. classical qtrans
+
+Equipartition
+
+Internal degrees of freedom
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Internal degrees of freedom for atoms and diatomic molecules
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rotational partition function
+
+Equipartition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**First hour exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear spin statistics: symmetry number, σ Low temperature limit for rotational partition function
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Low and high-T limits for qrot and qvib
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Polyatomic molecules: rotation and vibration
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium I
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Model intermolecular potentials
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Configurational integral: cluster expansion
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Virial equation of state
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamics of solid: Einstein and Debye models
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Second hour exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Einstein and Debye solids
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Phonons: 1-D linear chain of atoms
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Free electron theory of a metal
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Heat capacity in metals
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Band theory of solids
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal phase equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic theory of gases: Maxwell-Boltzmann distribution
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic theory of gases: effusion and collisions
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic theory of gases: collision dynamics and scattering
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic theory of gases: mean free path and transport
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Third hour exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic theory of gases: transport coefficients
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Transition state theory I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transition state theory II
+
+Kinetic isotope effect
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical mechanics for photons
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Rates of unimolecular reactions: RRKM
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
